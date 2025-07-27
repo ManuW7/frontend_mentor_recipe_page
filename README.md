@@ -21,8 +21,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ManuW7/frontend_mentor_recipe_page)
-- Live Site URL: [Add live site URL here](https://manuw7.github.io/frontend_mentor_recipe_page/)
+- Solution URL: [Solution URL here](https://github.com/ManuW7/frontend_mentor_recipe_page)
+- Live Site URL: [Live site URL here](https://manuw7.github.io/frontend_mentor_recipe_page/)
 
 ## My process
 
@@ -33,4 +33,4 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ManuW7)
+- Frontend Mentor - [@ManuW7](https://www.frontendmentor.io/profile/ManuW7)
